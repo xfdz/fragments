@@ -1,4 +1,4 @@
-Samples
+Fragments
 =======
 
-Samples of code
+Code samples that do not have a home.
